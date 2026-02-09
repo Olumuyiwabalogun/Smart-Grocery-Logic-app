@@ -17,5 +17,19 @@ I used a "Design-First" approach to build this quickly:
 🛠️ Tech Used
 * **Python/Flask** (The Engine)
 * **SQL/SQLAlchemy** (The Database)
+
+* ## App Gallery
+
+<img width="960" height="504" alt="Screenshot 2026-02-09 151446 png (grocery login)" src="https://github.com/user-attachments/assets/14d950c3-86ea-45b2-b4ac-dc0ea820ae82" />
+
+
+<img width="960" height="504" alt="Screenshot 2026-02-09 151553 png (grocery 2)" src="https://github.com/user-attachments/assets/1fc1f8a5-301d-4490-b596-d8c1865a7a4d" />
+
+<img width="960" height="504" alt="Screenshot 2026-02-09 151658 png (grocery 3)" src="https://github.com/user-attachments/assets/eb1269cc-c8fd-4942-98e5-b8f83d102094" />
+<img width="960" height="504" alt="Screenshot 2026-02-09 151800 png (grocery 3)" src="https://github.com/user-attachments/assets/8aa47f6a-f273-4ad0-a487-5efc81442dd7" />
+<img width="960" height="504" alt="Screenshot 2026-02-09 151841 png (grocery 5)" src="https://github.com/user-attachments/assets/466d7069-30bd-40fb-a968-db4e134039d4" />
+
+<img width="960" height="504" alt="Screenshot 2026-02-09 152035 png(grocery 6)" src="https://github.com/user-attachments/assets/7c825c93-6761-4916-bb00-c7e53f9b3bf0" />
+
 * **Bootstrap** (The Look)
 * **JavaScript** (The "Sticky" Features)
