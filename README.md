@@ -17,6 +17,8 @@ I used a "Design-First" approach to build this quickly:
 🛠️ Tech Used
 * **Python/Flask** (The Engine)
 * **SQL/SQLAlchemy** (The Database)
+* * **Bootstrap** (The Look)
+* **JavaScript** (The "Sticky" Features)
 
 * ## App Gallery
 
@@ -31,5 +33,4 @@ I used a "Design-First" approach to build this quickly:
 
 <img width="960" height="504" alt="Screenshot 2026-02-09 152035 png(grocery 6)" src="https://github.com/user-attachments/assets/7c825c93-6761-4916-bb00-c7e53f9b3bf0" />
 
-* **Bootstrap** (The Look)
-* **JavaScript** (The "Sticky" Features)
+
